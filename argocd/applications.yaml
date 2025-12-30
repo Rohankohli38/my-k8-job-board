@@ -9,7 +9,7 @@ spec:
   project: default
   
   source:
-    repoURL: https://github.com/tobiakinlade/job-board.git
+    repoURL: https://github.com/Rohankohli38/my-k8-job-board.git
     targetRevision: main
     path: kubernetes/overlays/dev
   
