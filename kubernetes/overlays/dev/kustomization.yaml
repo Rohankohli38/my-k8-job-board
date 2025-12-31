@@ -8,11 +8,11 @@ resources:
 
 images:
 - name: backend-placeholder
-  newName: 180048382895.dkr.ecr.eu-west-2.amazonaws.com/job-board-backend
-  newTag: d015f94
+  newName: 556789079263.dkr.ecr.eu-west-2.amazonaws.com/my-k8/backend
+  newTag: latest
 - name: frontend-placeholder
-  newName: 180048382895.dkr.ecr.eu-west-2.amazonaws.com/job-board-frontend
-  newTag: d015f94
+  newName: 556789079263.dkr.ecr.eu-west-2.amazonaws.com/my-k8/frontend
+  newTag: latest
 
 patches:
 - path: replica-patch.yaml

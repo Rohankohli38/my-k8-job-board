@@ -11,8 +11,7 @@ spec:
   source:
     repoURL: https://github.com/Rohankohli38/my-k8-job-board.git
     targetRevision: main
-    path: kubernetes/overlays/dev
-  
+    path: kubernetes/overlays/dev 
   destination:
     server: https://kubernetes.default.svc
     namespace: job-board
