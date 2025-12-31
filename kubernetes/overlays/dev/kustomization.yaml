@@ -9,10 +9,10 @@ resources:
 images:
 - name: backend-placeholder
   newName: 556789079263.dkr.ecr.eu-west-2.amazonaws.com/my-k8/backend
-  newTag: c2f6741
+  newTag: e175783
 - name: frontend-placeholder
   newName: 556789079263.dkr.ecr.eu-west-2.amazonaws.com/my-k8/frontend
-  newTag: c2f6741
+  newTag: e175783
 
 patches:
 - path: replica-patch.yaml
