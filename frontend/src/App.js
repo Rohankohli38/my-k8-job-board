@@ -104,7 +104,7 @@ function App() {
     },
     header: {
       background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', // �� CHANGED!
-      color: 'white',
+      color: 'black',
       padding: '30px 20px',
       marginBottom: '30px',
       borderRadius: '8px',
