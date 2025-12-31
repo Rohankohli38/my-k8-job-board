@@ -1,5 +1,6 @@
 # Job Board - Production-Grade Kubernetes Deployment
 
+
 A complete 3-part series demonstrating production-ready deployment practices on AWS EKS with Infrastructure as Code, GitOps CI/CD, and full observability.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
