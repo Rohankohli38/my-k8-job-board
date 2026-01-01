@@ -12,7 +12,7 @@ images:
   newTag: e175783
 - name: frontend-placeholder
   newName: 556789079263.dkr.ecr.eu-west-2.amazonaws.com/my-k8/frontend
-  newTag: e175783
+  newTag: latest
 
 patches:
 - path: replica-patch.yaml
